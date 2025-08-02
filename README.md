@@ -30,7 +30,7 @@
 
 ## 📦 Tech Stack
 
-- **SwiftUI** & **UIKit**
+- **SwiftUI** & **Swift**
 - `iOSSecuritySuite` (by [securing](https://github.com/securing))
 - Frida
 - Custom jailbreak tweaks
@@ -50,5 +50,5 @@ SecuTest isn't meant for bypassing protections in production apps — it's a pla
 ## 🚧 Disclaimer
 
 This project is for **educational and ethical hacking** purposes only. Don’t use it to bypass security in apps you don’t own or have permission to test.
-
+Also this project is built to enhance my resume, so its very much a **WIP** project, but wuld love to make it neat. :)
 ---
