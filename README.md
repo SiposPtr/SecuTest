@@ -15,7 +15,7 @@
    Use **Frida**, **custom tweaks**, and other tools to try and bypass the security checks, then **document the process** for research and education.
 
 3. **🛠️ Fork & Modify**  
-   Create a custom fork of `iOSSecuritySuite` that can be tweaked to:
+   Create a custom fork of [`iOSSecuritySuite`](https://github.com/SiposPtr/IOSSecuritySuite) that can be tweaked to:
    - Add logging for better understanding
    - Investigate how it works under the hood
    - Experiment with detection evasion and patching
@@ -31,7 +31,7 @@
 ## 📦 Tech Stack
 
 - **SwiftUI** & **Swift**
-- `iOSSecuritySuite` (by [securing](https://github.com/securing))
+- [`iOSSecuritySuite`](https://github.com/securing/IOSSecuritySuite) (by [securing](https://github.com/securing))
 - Frida
 - Custom jailbreak tweaks
 
